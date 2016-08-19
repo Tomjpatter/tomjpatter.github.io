@@ -14,7 +14,18 @@ html{
     opacity: 0.5;
     z-index:-1;
 }
-
+#wallpaper2{
+    position:fixed;
+    margin: auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: url(img/brighteyes.jpg) no-repeat center ;
+    background-size: cover;
+    opacity: 0.5;
+    z-index:-1;
+}
  
 
 #header{
@@ -41,10 +52,11 @@ html{
 
 #popup{
     z-index: 2;
+    font-size: 35px;
     position: fixed;
     margin: auto;
-    left: 0;
-    right: 0;
+    left: 0 ;
+    right: 845px;
     top: 0;
     Bottom: 0;
     background : orange center;

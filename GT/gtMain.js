@@ -13,5 +13,13 @@ var player = document.getElementById("player");
 var titles = document.getElementById("titles");
 
 var titlesArray = ["p5ysrH-L6t8","lBLG_O5zm9Y","oilJoJ48Vns","NuQRdyVWdDw","csU50fjGPHw"];
-
+titles.onchange = playNewMovie
  
+ function playNewMovie() {
+	var i = titles.selectedIndex ; // the index of current selection;
+	movie.src = baseAddress + titlesArray[i];
+//	player.innerHTML = movie.src ;
+	movie.play();
+ }
+ 
+ //titles.onchange = playNewMovie();

@@ -1,3 +1,18 @@
-#Head{
-    color: blue;
+#title{
+    color: black;
+    width: 100%;
+    background-color: tan;
+    font-family: AR JULIAN;
+    font-size: 42px;
+    text-align: center;
+    padding: 0;
+    top:0;
+    
+}
+
+#player{
+    text-align: center;
+    background-color: lightgray;
+    font-family: Century;
+    font-size: 16px  ;
 }

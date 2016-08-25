@@ -1,3 +1,7 @@
+body{
+    background-color: lightblue;
+}
+
 #title{
     color: black;
     width: 100%;
@@ -7,6 +11,7 @@
     text-align: center;
     padding: 0;
     top:0;
+    box-shadow: 0 8px 20px black;
     
 }
 

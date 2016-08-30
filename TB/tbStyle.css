@@ -1,12 +1,9 @@
-
-#header{
-   background: Blue;
-    color: red;
-    margin: auto;
+html{
+    user-select:none;
 }
 
+
 #back{
-   
     position:fixed;
     margin: auto;
     left: 0;
@@ -17,4 +14,10 @@
     background-size: cover;
     opacity: 0.5;
     z-index:-1;
+}
+
+#header{
+   background: Blue;
+    color: red;
+    margin: auto;
 }

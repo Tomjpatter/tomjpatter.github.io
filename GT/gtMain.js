@@ -12,7 +12,7 @@ var movie = document.getElementById("movie");
 var player = document.getElementById("player");
 var titles = document.getElementById("titles");
 
-var titlesArray = ["p5ysrH-L6t8","lBLG_O5zm9Y","oilJoJ48Vns","NuQRdyVWdDw","csU50fjGPHw"];
+var titlesArray = ["p5ysrH-L6t8","lBLG_O5zm9Y","oilJoJ48Vns","NuQRdyVWdDw","csU50fjGPHw","PKR8rKzeOPA","pw9CmVEueD0","9eUqXYfJ_4g"];
 titles.onchange = playNewMovie
  
  function playNewMovie() {

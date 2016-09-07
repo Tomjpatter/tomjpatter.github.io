@@ -17,7 +17,32 @@ html{
 }
 
 #header{
-   background: Blue;
-    color: red;
-    margin: auto;
+    position: fixed;
+    width: 100%;
+    background: beige;
+    margin: 0 auto;
+    text-align: center;
+    opacity: 0.8;
+    box-shadow: 0 10px, 20px black;
+    height: 12%;
+}
+
+#title{
+    color: black;
+    font-family: fantasy;
+    font-size: 50px;
+    
+}
+#link{
+    font-size: 15px;
+}
+
+p{
+    color: white;
+}
+
+#home{
+     height: 8%;
+     width: 8%;
+    margin-left: 75%;
 }

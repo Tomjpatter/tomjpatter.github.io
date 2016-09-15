@@ -9,3 +9,7 @@ function showAcademy(){
     //alert("Going to " + ccUrl);
     document.location = ccUrl;
 }
+
+function newTabAcademy(){
+    window.open(ccUrl);
+}

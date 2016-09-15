@@ -1,7 +1,7 @@
     
 body{
     font-family: sans-serif;
-    background-color: tomato;
+    
     color: white;
 }
 #app {
@@ -17,5 +17,6 @@ body{
     right:0;
     position: absolute;
     height: 50%;
+    background-color: tomato;
     }
     

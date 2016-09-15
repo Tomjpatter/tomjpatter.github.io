@@ -1,7 +1,7 @@
 //alert("testing");
 var btn = document.getElementById("btn");
 
-btn.mouseDown = showAcademy();
+btn.mousedown = showAcademy();
 
 
 function showAcademy(){};

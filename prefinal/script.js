@@ -4,7 +4,7 @@ var ccUrl="https://www.codecademy.com/TomP."
 var btn2 = document.getElementById("btn2");
 
 btn.onmousedown = showAcademy;
-btn2.onmousedown = newTabAcademy()
+btn2.onmousedown = newTabAcademy
 
 
 function showAcademy(){

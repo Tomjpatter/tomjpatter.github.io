@@ -4,11 +4,12 @@ body{
     
     color: white;
 }
+
 #app {
     width: 30%;
     padding: 3%;
     border-radius: 10px;
-    box-shadow: 8px 8px 15px lightgray;
+    box-shadow: 8px 8px 15px black;
     text-align: center;
     margin:  auto ;
     top:0;
@@ -18,5 +19,5 @@ body{
     position: absolute;
     height: 50%;
     background-color: tomato;
-    }
+}
     

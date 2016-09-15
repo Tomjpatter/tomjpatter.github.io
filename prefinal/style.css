@@ -1,3 +1,9 @@
+    
+body{
+    font-family: sans-serif;
+    background-color: tomato;
+    color: white;
+}
 #app {
     width: 30%;
     padding: 3%;
@@ -11,5 +17,5 @@
     right:0;
     position: absolute;
     height: 50%;
+    }
     
-}

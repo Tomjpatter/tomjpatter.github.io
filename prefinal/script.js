@@ -1,9 +1,10 @@
 //alert("testing");
 var btn = document.getElementById("btn");
+var ccUrl="https://www.codecademy.com/TomP."
 
 btn.onmousedown = showAcademy;
 
 
 function showAcademy(){
-    alert("Going to Code Cademy");
+    alert("Going to " + ccUrl);
 }

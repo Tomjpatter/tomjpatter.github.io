@@ -6,5 +6,6 @@ btn.onmousedown = showAcademy;
 
 
 function showAcademy(){
-    alert("Going to " + ccUrl);
+    //alert("Going to " + ccUrl);
+    document.location = ccUrl;
 }

@@ -1,0 +1,14 @@
+body{
+    background-color: lightgray;
+}
+
+#menu{
+    background-color: teal;
+    padding: 5%;
+    width: 30%;
+    height: 20%;
+    box-shadow: 5px 5px 10px black;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+}
